@@ -20,17 +20,4 @@ Provide insights for car buyers, sellers, and dealerships.
 
 Build the foundation for a predictive car price model.
 
-📝 Key Analysis
-
-Some possible analysis directions include:
-
-📊 Brand & Model Analysis → Average price by brand/model.
-
-⏳ Age vs Price → How car manufacturing year impacts price.
-
-🚦 Mileage Impact → Effect of kilometers driven on car value.
-
-⛽ Fuel Type & Transmission → Price differences across fuel types and gear systems.
-
-👥 Ownership Impact → How the number of previous owners affects price.
 
